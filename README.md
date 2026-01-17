@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-With **6+ years of hands-on experience** in the world of **data annotation**, I've worked on various projects that have contributed to training cutting-edge AI models. Over the past **1-2 years**, I’ve been expanding my horizons into **data analysis**, diving deep into insights, trends, and visual storytelling through data.
+With **7+ years of hands-on experience** in the world of **data annotation**, I've worked on various projects that have contributed to training cutting-edge AI models. Over the past **1-2 years**, I’ve been expanding my horizons into **data analysis**, diving deep into insights, trends, and visual storytelling through data.
 
 🎓 **Bachelor of Science (B.Sc) in Information Technology**  
 📍 *Graduated from Mumbai University in 2018*
